@@ -1,26 +1,24 @@
 [
-    {
-        "userEmail": "user1@email.com",
+	{
+        "userEmail": "someuser@someemaildomain.com",
+  	    "role": "COLLABORATOR",
+  	    "org": "someorgid"
+    },
+	{
+        "userEmail": "someuser@someemaildomain.com",
   	    "role": "collaborator",
-  	    "org": "Org Name 1-1",
-  	    "group": "Group Name 1"
+  	    "org": "someorgd"
     },
-    {
-  	    "userEmail": "user2@email.com",
+	{
+        "userEmail": "someuser@someemaildomain.com",
   	    "role": "admin",
-  	    "org": "Org Name 1-1",
-  	    "group": "Group Name 1"
+  	    "org": "someorgid"
     },
-    {
-  	    "userEmail": "user1@email.com",
-  	    "role": "collaborator",
-  	    "org": "Org Name 2-1",
-  	    "group": "Group Name 2"
-    },
-    {
-  	    "userEmail": "user2@email.com",
-  	    "role": "admin",
-  	    "org": "Org Name 2-2",
-  	    "group": "Group Name 2"
-   }
+	{
+        "userEmail": "someuser@someemaildomain.com",
+  	    "role": "ADMIN",
+  	    "org": "someorgId"
+    }
+	
+	
 ]

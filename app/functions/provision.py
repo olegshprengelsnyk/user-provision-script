@@ -12,13 +12,12 @@ def provision(membershipFile):
         print(callProvisionApi(
             userEmail=member['userEmail'],
             role=member['role'],
-            orgId=['org']
+            orgId=member['org']
             )
         )
 
         time.sleep(1)
 
-    # print(callProvisionApi("test", "test", "test"))
 
 #calls the provision api given a userEmail, role, and org
 def callProvisionApi(userEmail: str, role: str, orgId: str):
@@ -30,7 +29,8 @@ def callProvisionApi(userEmail: str, role: str, orgId: str):
     headers = {
         "Content-type" : "application/json; charset=utf-8",
         "Authorization" : "token {}".format(snykToken)
-    } 
+    }
+
     body = {
         "email" : userEmail,
         "role" : role.capitalize()
@@ -42,6 +42,8 @@ def callProvisionApi(userEmail: str, role: str, orgId: str):
         headers=headers,
         json=body
         )
+        
+    print(orgId)
     
 
     return response.json()
