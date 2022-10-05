@@ -12,22 +12,22 @@ How do I use it? <br>
     {
         "userEmail": "user1@email.com",
   	    "role": "roleID",
-  	    "org": orgID"
+  	    "org": "orgName"
     },
     {
   	    "userEmail": "user1@email.com",
   	    "role": "roleID2",
-  	    "org": orgID"
+  	    "org": "orgName"
     },
     {
   	    "userEmail": "user1@email.com",
   	    "role": "roleID2",
-  	    "org": orgID2"
+  	    "org": "orgName"
     },
     {
   	    "userEmail": "user2@email.com",
   	    "role": "roleID",
-  	    "org": "orgID
+  	    "org": "orgName"
    }
 ]
 ```
