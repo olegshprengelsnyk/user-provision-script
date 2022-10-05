@@ -6,18 +6,31 @@ Utilizes the [Snyk API](https://snyk.docs.apiary.io/#reference/organizations/pro
 
 How do I use it? <br>
 1. Generate a [membership file](https://github.com/snyk-labs/snyk-user-sync-tool#membership-file-format)(option 1, User-based use org).ATM this tool does not include a utility to generate this file so you will have to create it yourself
-`[<br>
-  {<br>
-    "userEmail": "email"
-    "role": "roleID"
-    "org": "orgid:
-  },<br>
-  {<br>
-    "userEmail": "email2"
-    "role": "roleID2"
-    "org": "orgid2:
-  }<br>
-]`
+
+```
+[
+    {
+        "userEmail": "user1@email.com",
+  	    "role": "roleID",
+  	    "org": orgID"
+    },
+    {
+  	    "userEmail": "user2@email.com",
+  	    "role": "roleID",
+  	    "org": orgID"
+    },
+    {
+  	    "userEmail": "user1@email.com",
+  	    "role": "roleID",
+  	    "org": orgID"
+    },
+    {
+  	    "userEmail": "user2@email.com",
+  	    "role": "roleID",
+  	    "org": "orgID
+   }
+]
+```
 
 2. install pip3 dependencies <br>
 `pip3 install`
