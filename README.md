@@ -22,7 +22,7 @@ How do I use it? <br>
     {
   	    "userEmail": "user1@email.com",
   	    "role": "roleID2",
-  	    "org": "orgName"
+  	    "org": "orgName2"
     },
     {
   	    "userEmail": "user2@email.com",
