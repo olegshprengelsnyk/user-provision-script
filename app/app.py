@@ -1,6 +1,7 @@
 import sys
 import getopt
 from functions.provision import provision
+from functions.convertMembershipFile import convertMembershipFile
 
 
 #this is the string that is returned if the user asks for help or doesnt pass valid args
@@ -16,5 +17,9 @@ except:
 # write file path to membershipFile
 membershipFile = open(opts[0][0][1], 'r')
 
-provision(str(membershipFile.read()))
-membershipFile.close()
+#convert membership file to json
+membershipFile = convertMembershipFile(membershipFile.read())
+
+#provision
+provision(membershipFile)
+# membershipFile.close()

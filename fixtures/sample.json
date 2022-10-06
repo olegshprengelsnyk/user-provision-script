@@ -1,24 +1,7 @@
 [
 	{
-        "userEmail": "someuser@someemaildomain.com",
-  	    "role": "COLLABORATOR",
-  	    "org": "someorgid"
-    },
-	{
-        "userEmail": "someuser@someemaildomain.com",
-  	    "role": "collaborator",
-  	    "org": "someorgd"
-    },
-	{
-        "userEmail": "someuser@someemaildomain.com",
-  	    "role": "admin",
-  	    "org": "someorgid"
-    },
-	{
-        "userEmail": "someuser@someemaildomain.com",
-  	    "role": "ADMIN",
-  	    "org": "someorgId"
+        "userEmail": "scottest2@oshprengelgmail.onmicrosoft.com",
+  	    "role": "89b4151b-897f-46b8-aa20-eaafd1d8e3c7",
+  	    "org": "demo"
     }
-	
-	
 ]

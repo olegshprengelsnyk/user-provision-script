@@ -5,8 +5,7 @@ import time
 
 #this function will take in a membership file and make the neccesary API calls to provision users
 def provision(membershipFile):
-    #convert json
-    membershipFile = json.loads(str(membershipFile))
+
 
     for member in membershipFile:
         print(callProvisionApi(
@@ -33,7 +32,7 @@ def callProvisionApi(userEmail: str, role: str, orgId: str):
 
     body = {
         "email" : userEmail,
-        "role" : role.capitalize()
+        "rolePublicId" : role
     }
 
     #request logged as response
