@@ -1,7 +1,185 @@
-[
-	{
-        "userEmail": "scottest2@oshprengelgmail.onmicrosoft.com",
-  	    "role": "89b4151b-897f-46b8-aa20-eaafd1d8e3c7",
-  	    "org": "demo"
-    }
-]
+[{
+	"userEmail": "subramanian.kathiresan@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "abhishek.br@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.abhimanyu.raibahadur@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.ashish.choudhury@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "bob.durham@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "brandon.austin01@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.benjamin.c.tett@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "brian.tsai@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.chandrasekhar.matcha@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "clement.rajaiyan01@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.dan.lindsey@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "daniel.lee@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.dinakar.chandolu@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.deepak.m.kumar@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.deep.singh@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.frederick.e.calk@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "gene.e.saunders@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "harish.goura@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "jay.zeng@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "jason.ryan@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "khushboo.singh@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "lakshmisandeep.athoti@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.lakshmimaniprakash.gummadi@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "matthew.brightbill@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "mansura.shaik@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.muhammed.nazir@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "otto.phillips@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.prasuna.avaldar@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.priyankaben.munjapara@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vc.poojithareddy.ala@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "naresh.kazipet@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "abhisek.tripathy@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "tejsv.gupta@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "ashwin.v@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "imranbasha.shaik@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "Niveditha.Shenoy@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vinoth.kumar@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "naresh.kazipet@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "abhisek.tripathy@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "tejsv.gupta@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "ashwin.v@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "imranbasha.shaik@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "Niveditha.Shenoy@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "vinoth.kumar@lowes.com",
+	"role": "d8ba290b-aa9e-4957-9f0b-9409d7b4f883",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "bhargava.reddymalli01@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}, {
+	"userEmail": "naresh.kazipet@lowes.com",
+	"role": "c77b7435-bf35-4807-bd1a-f7df9f718c68",
+	"org": "Frictionless Delivery Domain"
+}]
